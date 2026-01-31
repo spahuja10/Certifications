@@ -16,14 +16,15 @@ Credit Analyst Job Simulation (Standard Chartered):Practical experience in credi
 ## Data Analytics & AI
 Power BI (Simplilearn):Advanced data visualization, DAX expressions, and dashboard creation for business intelligence.
 
-Intro to Responsible AI:Exploration of ethics, fairness, and safety in the development and implementation of AI models.
+Business Analytics (Simran Pahuja _ BA): Training on Machine learning using Python Jupyter on different datasets.
 
 Excel for Financial Planning:Specialized application of advanced Excel functions for forecasting and financial modeling.
+
+LLP Certificate: Understanding the basic of Large Language Programming.
+
+Intro to Responsible AI:Exploration of ethics, fairness, and safety in the development and implementation of AI models.
 
 ## Operations & Professional Skills
 Fundamentals of Lean: Training in process optimization and waste reduction to improve organizational efficiency.
 
-LLP Certificate: Understanding the legal and structural frameworks of Limited Liability Partnerships.
-
-Business Analytics (Simran Pahuja _ BA): Training on Machine learning using Python Jupyter on different datasets.
 
